@@ -1,0 +1,8 @@
+
+product name: abc
+product id: 11
+cost price of product: 100
+selling price of product: 500
+quantity: 10
+ total cost: 1000
+sell: 5000

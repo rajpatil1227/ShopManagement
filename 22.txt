@@ -1,0 +1,8 @@
+
+product name: xyz
+product id: 22
+cost price of product: 50
+selling price of product: 100
+quantity: 10
+ total cost: 500
+sell: 1000
